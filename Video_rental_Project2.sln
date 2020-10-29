@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_rental_Project2", "Video_rental_Project2\Video_rental_Project2.csproj", "{C57BBA61-DAB1-4BDF-B21F-828F1483612D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_rental_Project2Tests", "Video_rental_Project2Tests\Video_rental_Project2Tests.csproj", "{28222DAE-BF74-42E8-AC45-AC70B1EC14EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57BBA61-DAB1-4BDF-B21F-828F1483612D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57BBA61-DAB1-4BDF-B21F-828F1483612D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57BBA61-DAB1-4BDF-B21F-828F1483612D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57BBA61-DAB1-4BDF-B21F-828F1483612D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28222DAE-BF74-42E8-AC45-AC70B1EC14EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28222DAE-BF74-42E8-AC45-AC70B1EC14EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28222DAE-BF74-42E8-AC45-AC70B1EC14EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28222DAE-BF74-42E8-AC45-AC70B1EC14EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10B9D43-291A-45DF-88D4-4C586F0EE450}
+	EndGlobalSection
+EndGlobal
